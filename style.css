@@ -89,12 +89,12 @@ html, body {
     padding: 5vw 15vw;
 }
 
-#homelast p {
+/* #homelast p {
     width: 70%;
     font-size: 1.6vw;
     font-weight: 400;
     letter-spacing: -.08vw;
-}
+} */
 
 /* #homelast p::selection {
     color: #ffff;
