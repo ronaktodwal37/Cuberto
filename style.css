@@ -124,11 +124,11 @@ html, body {
     margin-top: 5vw;
 }
 
-#fleft {
+/* #fleft {
     overflow: hidden;
     width: 45%;
     height: inherit;
-}
+} */
 
 /* .fleftelm {
     display: flex;
