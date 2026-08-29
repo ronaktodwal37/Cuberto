@@ -238,13 +238,13 @@ html, body {
     object-fit: cover;
 }
 
-.slide .tag {
+/* .slide .tag {
     width: fit-content;
     border-radius: 100px;
     padding: 10px 22px;
     background-color: #f7f7f7;
     margin: 20px 0;
-}
+} */
 
 /* .slide h3 {
     font-size: 1.4vw;
