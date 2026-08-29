@@ -96,10 +96,10 @@ html, body {
     letter-spacing: -.08vw;
 }
 
-#homelast p::selection {
+/* #homelast p::selection {
     color: #ffff;
     background-color: #000;
-}
+} */
 
 /* #featured {
     padding: 10vw 15vw;
