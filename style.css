@@ -111,10 +111,10 @@ html, body {
     font-weight: 400;
 }
 
-.fheading>h1:nth-child(2) {
+/* .fheading>h1:nth-child(2) {
     color: transparent;
     -webkit-text-stroke: 1px #000;
-}
+} */
 
 /* #fimages {
     display: flex;
