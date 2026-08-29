@@ -36,12 +36,12 @@ html, body {
 #nav img {
     width: 100px;
 }
-
+/* 
 #nav #right {
     display: flex;
     align-items: center;
     gap: 40px;
-}
+} */
 
 /* #nav a {
     text-decoration: none;
