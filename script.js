@@ -41,9 +41,9 @@ let sections = document.querySelectorAll(".fleftelm");
 //   },
 // });
 
-Shery.imageEffect(".images", {
-    style: 4
-});
+// Shery.imageEffect(".images", {
+//     style: 4
+// });
 
 
 // Shery.imageEffect(".images", {
