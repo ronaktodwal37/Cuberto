@@ -207,12 +207,12 @@ html, body {
     line-height: 1;
 }
 
-#dev p {
+/* #dev p {
     font-size: 1.5vw;
     margin-top: 3vw;
     letter-spacing: -.5px;
     width: 60%;
-}
+} */
 
 /* #slides {
     padding: 3vw 10vw;
