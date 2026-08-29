@@ -214,11 +214,11 @@ html, body {
     width: 60%;
 }
 
-#slides {
+/* #slides {
     padding: 3vw 10vw;
     display: flex;
     justify-content: space-between;
-}
+} */
 
 /* .slide {
     width: 30%;
