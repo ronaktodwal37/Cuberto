@@ -179,11 +179,11 @@ html, body {
     object-fit:cover;
 }
 
-.btndiv {
+/* .btndiv {
     display: flex;
     align-items: center;
     justify-content: center;
-}
+} */
 
 /* .btndiv button {
     padding: 1.3vw 2.5vw;
