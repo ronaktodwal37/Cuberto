@@ -130,13 +130,13 @@ html, body {
     height: inherit;
 }
 
-.fleftelm {
+/* .fleftelm {
     display: flex;
     flex-direction: column;
     justify-content: center;
     width: 100%;
     height: inherit;
-}
+} */
 
 /* .fleftelm h1 {
     font-size: 2.5vw;
