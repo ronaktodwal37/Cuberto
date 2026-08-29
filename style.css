@@ -43,13 +43,13 @@ html, body {
     gap: 40px;
 }
 
-#nav a {
+/* #nav a {
     text-decoration: none;
     font-weight: 400;
     color: #000;
     font-size: 1vw;
     letter-spacing: -1px;
-}
+} */
 
 /* #nav i {
     margin-top: 3px;
