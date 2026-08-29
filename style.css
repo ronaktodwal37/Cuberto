@@ -154,14 +154,14 @@ html, body {
 .fleftelm h4 {
     opacity: .5;
 }
-
+/* 
 #fright {
     display: flex;
     align-items: center;
     justify-content: flex-end;
     width: 45%;
     height: inherit;
-}
+} */
 /* 
 #fright .images{
     position: relative;
