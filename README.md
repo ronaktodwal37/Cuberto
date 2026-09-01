@@ -1,2 +1,2 @@
 # Cuberto
-it is a website 
+it is a website that contains some animation parts 
