@@ -116,19 +116,19 @@ html, body {
     -webkit-text-stroke: 1px #000;
 }
 
-/* #fimages {
+#fimages {
     display: flex;
     justify-content: space-between;
     width: 100%;
     height: 100vh;
     margin-top: 5vw;
-} */
+}
 
-/* #fleft {
+#fleft {
     overflow: hidden;
     width: 45%;
     height: inherit;
-} */
+}
 
 /* .fleftelm {
     display: flex;
