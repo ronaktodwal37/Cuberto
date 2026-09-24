@@ -222,6 +222,7 @@ html, body {
 
 .slide {
     width: 30%;
+    /* height : 30% */
 }
 
 .slide .img {
