@@ -1,3 +1,3 @@
 # Cuberto
 ## it is a website that contains some animation parts 
-It has
+It has combination of
